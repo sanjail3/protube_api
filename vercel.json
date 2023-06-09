@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api_response.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "env": {
+    "OPENAI_API_KEY": "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"
+  }
+}
